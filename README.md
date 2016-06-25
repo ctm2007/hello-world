@@ -1,2 +1,3 @@
 # hello-world
-iteach dogs javascript
+I teach dogs javascript
+I am human. i live in the world.
